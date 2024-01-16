@@ -65,7 +65,8 @@ MonoBehaviour:
   beforePostProcessCustomPostProcesses:
   - PP_SNNandSharp, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
   afterPostProcessBlursCustomPostProcesses: []
-  afterPostProcessCustomPostProcesses: []
+  afterPostProcessCustomPostProcesses:
+  - Overlay, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
   beforeTAACustomPostProcesses: []
   lightLayerName0: Light LayerDefault
   lightLayerName1: InteriorOnly
